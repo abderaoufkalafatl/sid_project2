@@ -1,0 +1,22 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Java
+*.class
+bin/
+target/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tomcat
+/.metadata/
+
+# MySQL connector (optional)
+mysql-connector-*.jar
